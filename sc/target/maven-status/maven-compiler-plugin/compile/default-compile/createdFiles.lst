@@ -1,0 +1,13 @@
+sofia\sc\security\Mensaje.class
+sofia\sc\service\IExperienciaService.class
+sofia\sc\model\Experiencia.class
+sofia\sc\controller\ExperienciaController.class
+sofia\sc\ScApplication.class
+sofia\sc\Dto\DtoExperiencia.class
+sofia\sc\model\repository\IPersonaRepository.class
+sofia\sc\service\ExperienciaService.class
+sofia\sc\model\repository\IExperienciaRepository.class
+sofia\sc\model\Persona.class
+sofia\sc\service\IPersonaService.class
+sofia\sc\controller\Controller.class
+sofia\sc\service\PersonaService.class
